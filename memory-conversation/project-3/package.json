@@ -1,0 +1,19 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^1.2.8",
+    "@langchain/openai": "^1.5.8",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "redis": "^6.2.1"
+  }
+}
